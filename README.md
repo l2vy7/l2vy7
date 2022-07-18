@@ -6,7 +6,7 @@
   <br><br>
   <h1>Official accounts!</h1>
   <ul>
-      <li>Discord - <a href="https://discord.com/users/972293272112349204">᲼᲼    ᲼᲼#6542</a></li>
+      <li>Discord - <a href="https://discord.com/users/972293272112349204">(blank)#6542</a></li>
       <li>GitHub - Here (<a href="https://github.com/l2vy7">@l2vy7</a>)</li>
       <li>ReplIT - <a href="https://replit.com/@l2vy7">@l2vy7</a> (I was NOT hacked by Xotic)</li>
   </ul>
