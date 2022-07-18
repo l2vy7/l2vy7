@@ -10,4 +10,5 @@
       <li>GitHub - Here (<a href="https://github.com/l2vy7">@l2vy7</a>)</li>
       <li>ReplIT - <a href="https://replit.com/@l2vy7">@l2vy7</a> (I was NOT hacked by Xotic)</li>
   </ul>
+  <h3>My real website until the domain goes down is <a href="https://l2vy7.xyz">l2vy7.xyz</a>. Next May, it will go down and may be used by Xotic. DO NOT VISIT IT THEN!</h3>
 </div>
