@@ -4,6 +4,8 @@
   <h4>Though he may act like me, using the trollface and laughing emoji and such, he is NOT me!<br><strong>DO NOT GIVE HIM ANY PERSONAL INFORMATION</strong></h4>
   <h3>Look out for DMs from Bia#0069 or Xotic#0001, especially IMAMONKEY#6762.</h3>
   <br><br>
+  <h2>SQUAR SPUNGLE/SQUAR IS ALSO XOTIC!</h2>
+  <br><br>
   <h1>Official accounts!</h1>
   <ul>
       <li>Discord - <a href="https://discord.com/users/972293272112349204">(blank)#6542</a></li>
